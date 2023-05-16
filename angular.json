@@ -113,5 +113,8 @@
       }
     }
   },
-  "defaultProject": "zappy_boiler_plate"
+  "defaultProject": "zappy_boiler_plate",
+  "cli": {
+    "analytics": false
+  }
 }
